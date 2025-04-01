@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there :raising_hand:
+
+## Introduction
+My name is Billy Franko, currently a 8th semester student in Multi Data Palembang University studying Informatics. Other than that, I'm an alumni of the Bangkit 2023 Batch 2 Mobile Development Learning Path. My projects were made using Kotlin/Java for Android dan PHP for Website Apps. As an example, one of my project is CarVal, a final project made during Bangkit 2023 Batch 2 to detect false job applications. Please take a look at it!
+
+## Contact Information
+Other than that, if possible, please send me a connect request or contact me through on the social medias below!
+
+- [**Linkedin**](https://www.linkedin.com/in/billy-franko/)
+- [**Github**](https://github.com/BillyFranko)
+- [**Email**](mailto:billy.franko994@gmail.com)
+
+## Extras
 
 <p align="left">
 <a href="https://github.com/billyfranko">
